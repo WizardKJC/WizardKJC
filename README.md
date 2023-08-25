@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WizardKJC
 - 👀 I’m interested in DevOps.
 - 🌱 I’m currently learning K8s.
-- 💞️ I’m looking to collaborate on Ruby on Rails project.
+- 💞️ I’m looking for RoR jobs.
 - 📫 How to reach me ...
 - email me at dev.rubyist@outlook.com
 
